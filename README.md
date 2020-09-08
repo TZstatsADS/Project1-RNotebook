@@ -7,7 +7,7 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Fall 2029
+Term: Fall 2020
 
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [your name]
@@ -18,7 +18,7 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
-├── lib/
+├── dev/
 ├── data/
 ├── doc/
 ├── figs/
